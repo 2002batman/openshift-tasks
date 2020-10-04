@@ -62,7 +62,7 @@
     <repositories>
         <repository>
             <id>openshift-repository</id>
-            <url>https://maven.repository.redhat.com/ga/</url>
+            <url>http://nexus-jen56-cicd.apps-crc.testing/repository/redhat-ga/</url>
         </repository>
     </repositories>
 
